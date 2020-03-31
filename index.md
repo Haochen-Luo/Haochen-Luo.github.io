@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MellamoRobert/haochen-luo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Haochen Luo(Robert)'s Pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverpool University. My reserach interests are machine learning, deep learning and bioinformatics.
 
-### Markdown
+### Academic Performance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Year 1: top 3% Excellence Scholarship(10000 CNY)
 
 ```markdown
 Syntax highlighted code block
@@ -21,6 +20,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+###Publication
+
+1 Shen Jia, **Haochen Luo**, Qiheng Gao, Jiaqi Guo, Jionglong Su, Jia Meng, Xiangyu Wu"Detection of m6A RNA Methylation in Nanopore Sequencing Data Using Support Vector Machine," _2019 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)_.**Presenter**.
+ 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
