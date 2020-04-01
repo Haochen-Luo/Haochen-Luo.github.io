@@ -5,12 +5,12 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
 ### Academic Performance
 -----------------------------------------------------
 - Year 1: top 3% with Excellence Scholarship(10000 CNY)
-******************************************************
+
 
 ### Programming Skills
 -----------------------------------------------------
 - Java, C, Python, Tensorflow, Mysql, Prolog, Assembly.
-*****************************************************
+
 
 ### Publication
 ------------------------------------------------------
