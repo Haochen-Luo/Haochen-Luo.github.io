@@ -15,7 +15,7 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
 ### Publication
 ------------------------------------------------------
 1. Shen Jia, **Haochen Luo**, Qiheng Gao, Jiaqi Guo, Jionglong Su, Jia Meng, Xiangyu Wu "Detection of m6A RNA Methylation in Nanopore Sequencing Data Using Support Vector Machine," _2019 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)_.  
-**I am the Presenter of this papaer.**
+**I am the Presenter of this paper.**
 
 ### Awards
 ------------------------------------------------------
@@ -23,7 +23,7 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
 - 2019: Excellence Scholarship: 10000 CNY.
 - 2019: XJTLU Merit Student (5% per program).
 - 2018: "Uchallenge" English reading competetion 2nd prize.
-- 2018: "Uchallenge" English speech competetion 3nd prize.
+- 2018: "Uchallenge" English speech competetion 3rd prize.
 
 
 
