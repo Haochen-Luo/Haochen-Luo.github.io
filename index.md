@@ -1,15 +1,17 @@
 ## Welcome to Haochen Luo(Robert)'s Pages
 
-Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverpool University. My research interests are machine learning, deep learning, bioinformatics and AI-compsing.
+Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverpool University. My research interests are computer vision, deep learning, bioinformatics and AI-compsing.
 
 ### Academic Performance
 -----------------------------------------------------
 - Year 1: top 3% with Excellence Scholarship(10000 CNY)
-
-
+- Core modules:
+    - Java Programming: 95
+    - Data Structure: 97    
+    - Algorithms: 92    
 ### Programming Skills
 -----------------------------------------------------
-- Java, C, Python, Tensorflow, Mysql, Prolog, Assembly.
+- Java, C, Python, PyTorch, Tensorflow, Mysql, Prolog, Assembly.
 
 
 ### Publication
