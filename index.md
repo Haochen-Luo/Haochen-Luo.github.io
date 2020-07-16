@@ -5,10 +5,13 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
 ### Academic Performance
 -----------------------------------------------------
 - Year 1: top 3% with Excellence Scholarship(10000 CNY)
-- Core modules:
-    - Java Programming: 95
-    - Data Structure: 97    
-    - Algorithms: 92 
+
+
+###Core Modules:
+-----------------------------------------------------
+- Java Programming: 95
+- Data Structure: 97    
+- Algorithms: 92 
     
 ### Programming Skills
 -----------------------------------------------------
@@ -31,7 +34,7 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
 
 
 ### Extracurricular
-
+------------------------------------------------------
 - Lecturer: I worked as a lecturer in Xi'an Jiaotong-Liverpool teaching the fundamentals of the piano and music theory.
 - Composer: I have been writing piano pieces since 14 and now I am in a composing troupe of XJTLU.
 
