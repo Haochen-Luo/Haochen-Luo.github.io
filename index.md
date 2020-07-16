@@ -8,7 +8,8 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
 - Core modules:
     - Java Programming: 95
     - Data Structure: 97    
-    - Algorithms: 92    
+    - Algorithms: 92 
+    
 ### Programming Skills
 -----------------------------------------------------
 - Java, C, Python, PyTorch, Tensorflow, Mysql, Prolog, Assembly.
