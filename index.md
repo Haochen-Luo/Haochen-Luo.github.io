@@ -7,7 +7,7 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
 - Year 1: top 3% with Excellence Scholarship(10000 CNY)
 
 
-###Core Modules:
+### Core Modules:
 -----------------------------------------------------
 - Java Programming: 95
 - Data Structure: 97    
