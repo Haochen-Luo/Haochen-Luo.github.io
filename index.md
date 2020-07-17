@@ -15,8 +15,10 @@ Hi, I am Haochen Luo, a year 2 computer science student in Xi'an Jiaotong-Liverp
     
 ### Programming Skills
 -----------------------------------------------------
-- Java, C, Python, PyTorch, Tensorflow, Mysql, Prolog, Assembly.
-
+- Language: Java, C, Python, Mysql, Prolog, Assembly.
+- Deep Learning: PyTorch, Tensorflow
+- Web: JavaScript, CSS, HTML
+- Tools: IDEA, Eclipse, Matlab, Visual Studio, Git
 
 ### Publication
 ------------------------------------------------------
