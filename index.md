@@ -5,7 +5,7 @@ Hello everyone, I am Haochen Luo, a year 2 student studying computer science at 
 ### Academic Performance
 -----------------------------------------------------
 - Year 1: top 3% with Excellence Scholarship(10000 CNY)
-- Year 2: top 1% with XJTLU Scholarship(5000 GBP)
+- Year 2: top 1% with XJTLU Scholarship(5325 GBP)
 
 
 ### Core Modules:
@@ -29,7 +29,7 @@ Hello everyone, I am Haochen Luo, a year 2 student studying computer science at 
 
 ### Awards
 ------------------------------------------------------
-- 2020: XJTLU Scholarship: 5000 GBP.
+- 2020: XJTLU Scholarship: 5325 GBP.
 - 2020: Jiangsu Province Merit Student(2 out of all year 2 students)
 - 2019: Excellence Scholarship: 10000 CNY.
 - 2019: XJTLU Merit Student (5% per program).
