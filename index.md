@@ -5,7 +5,7 @@ Hello everyone, I am Haochen Luo, a year 2 student studying computer science at 
 ### Academic Performance
 -----------------------------------------------------
 - Year 1: top 3% with Excellence Scholarship(10000 CNY)
-- Year 2: top 1% with XJTLU Scholarship(5325 GBP)
+- Year 2: top 1% with XJTLU Scholarship(5000+ GBP)
 
 
 ### Core Modules:
