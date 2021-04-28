@@ -1,6 +1,6 @@
 ## Welcome to Haochen Luo(Robert)'s Pages
 
-I am a year 3 student studying computer science at the University of Liverpool. Prior to it, I spent two years at Xi'an Jiaotong-Liverpool University studying computer science as well. My research interests are computer vision, deep learning, bioinformatics and AI-composing.
+I am a junior student studying computer science at the University of Liverpool. Prior to it, I spent two years at Xi'an Jiaotong-Liverpool University studying computer science as well. My research interests are computer vision, natural language processing, bioinformatics and AI-composing. 
 
 ### Academic Performance
 -----------------------------------------------------
