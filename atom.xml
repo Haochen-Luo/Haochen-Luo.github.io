@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haochen-luo.github.io</id>
     <title>Haochen Luo</title>
-    <updated>2021-09-13T04:49:44.211Z</updated>
+    <updated>2021-09-13T05:57:09.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haochen-luo.github.io"/>
     <link rel="self" href="https://haochen-luo.github.io/atom.xml"/>
@@ -11,19 +11,46 @@
     <icon>https://haochen-luo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Haochen Luo</rights>
     <entry>
+        <title type="html"><![CDATA[Misc]]></title>
+        <id>https://haochen-luo.github.io/post/misc/</id>
+        <link href="https://haochen-luo.github.io/post/misc/">
+        </link>
+        <updated>2021-09-13T05:20:48.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="music">Music</h2>
+<ul>
+<li>Music is an integral part of my life. Have played the piano for over 15 years. Started composing since 14 years old.</li>
+<li>I worked as a student lecturer in XJTLU teaching the fundamentals of piano and music theory.</li>
+<li>Love classical and jazz music. Learning jazz harmony will greatly benefit the color of your music.</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[About me]]></title>
         <id>https://haochen-luo.github.io/post/about-me/</id>
         <link href="https://haochen-luo.github.io/post/about-me/">
         </link>
         <updated>2021-09-13T01:11:37.000Z</updated>
-        <content type="html"><![CDATA[<p>I am a senior student studying computer science at the <span style="color:blue" href="https://www.liverpool.ac.uk/">University of Liverpool</span>.</p>
-<p>I work as a remote research intern supervised by  <a style="color:blue" href="http://www.personal.psu.edu/ffm5105/index.html" >Prof. Fenglong Ma </a> (Penn State University, US). I also work on my final year project under the supervision of <a style="color:blue" href="https://danushka.net/"> Prof. Danushka Bollegala</a>.</p>
-<p>My research interests are are vision-language, natural language processing, bioinformatics and AI-composing. I am also actively exploring the fields in visualization</p>
-<h2 id="ongoing-projects">Ongoing Projects</h2>
+        <content type="html"><![CDATA[<p>I am a senior student studying computer science at the <span style="color:blue" href="https://www.liverpool.ac.uk/">University of Liverpool</span>, expected to graduate in June 2022.</p>
+<p>I am doing a remote research intern supervised by Prof. <a style="color:blue" href="http://www.personal.psu.edu/ffm5105/index.html" > Fenglong Ma </a> (Penn State University). I am also working on my final year project under the supervision of Prof. <a style="color:blue" href="https://danushka.net/"> Danushka Bollegala</a>. Previously, I also did bioinformatics project under the supervision of Prof. <a style="color:blue" href="https://www.xjtlu.edu.cn/en/departments/academic-departments/entrepreneur-college-taicang/staff/jionglong-su" >Jionglong Su</a> and Prof. <a style="color:blue" href="https://www.xjtlu.edu.cn/en/departments/academic-departments/biological-sciences/staff/jia-meng">Meng Jia</a>.</p>
+<p><span style="color:red">My research interests</span> are vision-language, natural language processing, bioinformatics and AI-composing. I am also actively exploring the fields in visualization.</p>
+<h2 id="ongoing-projects-more-details-to-be-released">Ongoing Projects (More details to be released!)</h2>
+<h3 id="medical-report-generation">Medical Report Generation</h3>
+<ul>
+<li>Implemented the baseline Code of medical report generation from scratch</li>
+<li>Exploring attention mechanism to improve the performance</li>
+</ul>
+<h3 id="word-sense-disambiguation">Word Sense Disambiguation</h3>
+<ul>
+<li>Conducting different methodologies in improving the accuracy of word sense disambiguations</li>
+</ul>
 <h2 id="past-projects">Past Projects</h2>
-<p>Automatic Background Music Matching Website</p>
-<p>In this project we aimed to build a website to provide suitable music for a give clip of video based on its emotion. I am resposible for the algorithm part and database maintainance part.<br>
-You can see the demo here: <span style="color:blue" href=" https://www.youtube.com/watch?v=yNy-ZVsYaho">MugicAI demo link</span>.</p>
+<h3 id="automatic-background-music-matching-website">Automatic Background Music Matching Website</h3>
+ <img src="https://github.com/Haochen-Luo/Haochen-Luo.github.io/blob/master/images/product.png" width = "270" height = "200" alt="图片名称" align=left />
+<ul>
+<li>In this project we aimed to build a website to provide suitable music for a give clip of video based on its emotion.</li>
+<li>I am resposible for the algorithm part and database maintainance part.</li>
+<li>You can see the demo here: <span style="color:blue" href=" https://www.youtube.com/watch?v=yNy-ZVsYaho">MugicAI demo link</span>.</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
