@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haochen-luo.github.io</id>
     <title>Haochen Luo</title>
-    <updated>2021-09-13T03:12:28.554Z</updated>
+    <updated>2021-09-13T04:49:44.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haochen-luo.github.io"/>
     <link rel="self" href="https://haochen-luo.github.io/atom.xml"/>
@@ -20,21 +20,10 @@
 <p>I work as a remote research intern supervised by  <a style="color:blue" href="http://www.personal.psu.edu/ffm5105/index.html" >Prof. Fenglong Ma </a> (Penn State University, US). I also work on my final year project under the supervision of <a style="color:blue" href="https://danushka.net/"> Prof. Danushka Bollegala</a>.</p>
 <p>My research interests are are vision-language, natural language processing, bioinformatics and AI-composing. I am also actively exploring the fields in visualization</p>
 <h2 id="ongoing-projects">Ongoing Projects</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://haochen-luo.github.io/post/about/</id>
-        <link href="https://haochen-luo.github.io/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<h2 id="联系我呀">📬 联系我呀</h2>
+<h2 id="past-projects">Past Projects</h2>
+<p>Automatic Background Music Matching Website</p>
+<p>In this project we aimed to build a website to provide suitable music for a give clip of video based on its emotion. I am resposible for the algorithm part and database maintainance part.<br>
+You can see the demo here: <span style="color:blue" href=" https://www.youtube.com/watch?v=yNy-ZVsYaho">MugicAI demo link</span>.</p>
 ]]></content>
     </entry>
 </feed>
