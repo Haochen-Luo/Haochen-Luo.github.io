@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haochen-luo.github.io</id>
     <title>Haochen Luo</title>
-    <updated>2021-09-13T06:16:32.655Z</updated>
+    <updated>2021-09-13T06:44:23.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haochen-luo.github.io"/>
     <link rel="self" href="https://haochen-luo.github.io/atom.xml"/>
@@ -45,11 +45,11 @@
 </ul>
 <h2 id="past-projects">Past Projects</h2>
 <h3 id="automatic-background-music-matching-website">Automatic Background Music Matching Website</h3>
- <img src="https://github.com/Haochen-Luo/Algorithm/blob/master/misc/product.png" width = "270" height = "200" alt="图片名称" align=left />
+ <img src="https://github.com/Haochen-Luo/Algorithm/blob/master/misc/product.png?raw=true" width = "240" height = "200"  align=left />
 <ul>
 <li>In this project we aimed to build a website to provide suitable music for a give clip of video based on its emotion.</li>
 <li>I am resposible for the algorithm part and database maintainance part.</li>
-<li>You can see the demo here: <span style="color:blue" href=" https://www.youtube.com/watch?v=yNy-ZVsYaho">MugicAI demo link</span>.</li>
+<li>You can see the demo here: <a style="color:blue" href=" https://www.youtube.com/watch?v=yNy-ZVsYaho">MugicAI demo link</span>.</li>
 </ul>
 ]]></content>
     </entry>
